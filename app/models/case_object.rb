@@ -1,0 +1,2 @@
+class CaseObject < Case
+end
